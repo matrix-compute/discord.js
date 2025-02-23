@@ -70,7 +70,7 @@
 		"typescript": "^5.4.5",
 		"typescript-eslint": "^7.11.0",
 		"unocss": "^0.60.4",
-		"vercel": "^34.2.4",
+		"vercel": "^41.2.0",
 		"vitest": "^1.6.0"
 	},
 	"pnpm": {
