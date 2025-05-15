@@ -90,7 +90,7 @@
 		"turbo": "^1.13.3",
 		"typescript": "^5.4.5",
 		"unocss": "^0.60.4",
-		"vercel": "^34.2.4",
+		"vercel": "^41.7.4",
 		"vitest": "^1.6.0"
 	},
 	"engines": {
